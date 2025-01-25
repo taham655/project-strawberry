@@ -16,7 +16,7 @@ Slap reasoning on top of any model. GPT 3.5 can finally count the number of r's 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/project-strawberry.git
+   git clone https://github.com/taham655/project-strawberry.git
    cd project-strawberry
    ```
 
