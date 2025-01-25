@@ -1,12 +1,10 @@
 # 🤖 Reasoning is all you need
 
-A powerful AI reasoning tool that combines DeepSeek's reasoning capabilities with language models to provide well-thought-out responses to your questions.
-
+Slap reasoning on top of any model. GPT 3.5 can finally count the number of r's in strawberry 😃
 ## Features
 
 - Uses DeepSeek's reasoning model for detailed thought process
-- Choice between GPT-3.5 and Llama 3.2 1B for final responses
-- Beautiful CLI interface with formatted output
+- Choice between GPT-3.5 and Llama 3.2 1B for final responses (you can add more models if you want)
 
 ## Prerequisites
 
@@ -107,4 +105,4 @@ Enter choice (1/2): 1
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Do whatever you want with it - MIT license (sure why not) 
